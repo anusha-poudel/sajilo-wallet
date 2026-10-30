@@ -1,0 +1,18 @@
+[
+  {
+    "id": "TC_LOGIN_02",
+    "title": "empty username",
+    "username": "",
+    "password": "Ram@1234",
+    "field": "username-error",
+    "message": "Username is required"
+  },
+  {
+    "id": "TC_LOGIN_03",
+    "title": "wrong password",
+    "username": "ram.thapa",
+    "password": "wrong123",
+    "field": "login-error",
+    "message": "Invalid username or password"
+  }
+]

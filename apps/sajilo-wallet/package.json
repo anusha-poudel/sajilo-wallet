@@ -1,0 +1,10 @@
+{
+  "name": "sajilo-wallet",
+  "version": "1.0.0",
+  "description": "Practice app for the Qrius Automation QA Bootcamp classwork: login, dashboard, payment and transaction history.",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": { "node": ">=18" }
+}
